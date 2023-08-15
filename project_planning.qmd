@@ -1,0 +1,74 @@
+---
+title: "*Name of Project* Project Plan"
+format: html
+---
+
+## Stakeholders
+
+Project Sponsor: 
+
+Business Owner: 
+
+Data Scientist: 
+
+Data Engineer: 
+
+## Business Problem
+
+*Describe the Business Problem. What is the issue the business is trying to solve? Be as specific as possible. Define the scope of the project. This is important for avoiding scope creep or a moving target.*
+
+## Key Performance Metrics
+
+*What are the KPIs for the project? What are the current values of these KPIs? What is the definition of success in terms of these KPIs?*
+
+## Business Requirements
+
+*What are the business requirements for the project? For a predictive model this will include the trigger event for model scoring, case-specific handling, exceptions, the type of predictors, etc.*
+
+## Implementation Plan
+
+### Deployment Pattern
+
+*How will the DS product be deployed? Monitoring tool / dashboard, on-demand web/micro-service? Will there be a UI component? This is a good place to provide a mocked version of the product / wireframe.*
+
+### Deployment Requirements
+
+*What are the deployment requirements? Application availability, data availability, infrastructure, application hosting, etc.*
+
+## Feasibility Assessment
+
+*Given the information above, is the project feasible? What is the likelihood of success?*
+
+## Roadmap
+
+*Provide a preliminary roadmap timeline. What by when?*
+
+::: rotate-img
+
+```{mermaid}
+gantt
+    title Example Project Roadmap
+    dateFormat YYYY-MM-DD
+    section Project Planning
+        Scope Project and Gather Requirements  :a1, 2030-01-01, 30d
+        Model Advisory Board Signoff    : milestone, after a1, 1d
+    section Model Development
+        Data Acquisition :2030-02-01, 12d
+        Model Build    :24d
+        Model Validation :21d
+        Final Stakeholder Signoff : milestone, 1d
+    section Pilot
+        In Pilot : 21d
+        Model Adjustments : 7d
+    section Deployment
+        Code Hardening and Unit Testing : 21d
+        Application Integration and Testing : 21d
+    section Monitoring
+        Ongoing Monitoring Report : milestone, 1d
+```
+
+:::
+
+## Stakeholder Sign-off
+
+*Do you have signoff from stakeholders? Both data science and business leadership signoff?*

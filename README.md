@@ -2,11 +2,20 @@
 
 ## Templates
 
-- Project Planning
+### Project Planning
 
-- Status Updates
+### Status Updates
 
-- Crib Sheet
+- Project overview / vision statement
+- Accomplishments
+- Next Steps
+- Risks/Barriers
+- Decisions Required
+  What decisions do we need leadership/key stakeholders
+- Milestones
+- Wrap up with *What by When*
+
+### Crib Sheet
 
 ### Notes
 

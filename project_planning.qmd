@@ -13,7 +13,7 @@ Data Scientist:
 
 Data Engineer: 
 
-## Business Problem
+## Business Problem and Scope
 
 *Describe the Business Problem. What is the issue the business is trying to solve? Be as specific as possible. Define the scope of the project. This is important for avoiding scope creep or a moving target.*
 
@@ -23,7 +23,7 @@ Data Engineer:
 
 ## Business Requirements
 
-*What are the business requirements for the project? For a predictive model this will include the trigger event for model scoring, case-specific handling, exceptions, the type of predictors, etc.*
+*What are the business requirements for the project? For a predictive model this will include the trigger event for model scoring, case-specific handling, exceptions, the type of predictors, etc. Understand the core tension of speed to market vs craftsmanship*
 
 ## Implementation Plan
 
@@ -35,9 +35,9 @@ Data Engineer:
 
 *What are the deployment requirements? Application availability, data availability, infrastructure, application hosting, etc.*
 
-## Feasibility Assessment
+## Project Sizing and Feasibility Assessment
 
-*Given the information above, is the project feasible? What is the likelihood of success?*
+*How large a project is this? What resources need to be brought to bear to make the project successful? Given the information above, is the project feasible? What is the likelihood of success?*
 
 ## Roadmap
 

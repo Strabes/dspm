@@ -1,7 +1,7 @@
 ---
-title: "Website"
+title: "Data Science Project Management"
 ---
 
-This is a Quarto website.
+Resources:
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+[Project Planning](project_planning.qmd)

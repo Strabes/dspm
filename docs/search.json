@@ -2,15 +2,78 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Website",
+    "title": "Data Science Project Management",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Resources:\nProject Planning"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "Author: Greg Strabel"
+  },
+  {
+    "objectID": "project_planning.html",
+    "href": "project_planning.html",
+    "title": "Name of Project Project Plan",
+    "section": "",
+    "text": "Project Sponsor:\nBusiness Owner:\nData Scientist:\nData Engineer:"
+  },
+  {
+    "objectID": "project_planning.html#stakeholders",
+    "href": "project_planning.html#stakeholders",
+    "title": "Name of Project Project Plan",
+    "section": "",
+    "text": "Project Sponsor:\nBusiness Owner:\nData Scientist:\nData Engineer:"
+  },
+  {
+    "objectID": "project_planning.html#business-problem-and-scope",
+    "href": "project_planning.html#business-problem-and-scope",
+    "title": "Name of Project Project Plan",
+    "section": "Business Problem and Scope",
+    "text": "Business Problem and Scope\nDescribe the Business Problem. What is the issue the business is trying to solve? Be as specific as possible. Define the scope of the project. This is important for avoiding scope creep or a moving target."
+  },
+  {
+    "objectID": "project_planning.html#key-performance-metrics",
+    "href": "project_planning.html#key-performance-metrics",
+    "title": "Name of Project Project Plan",
+    "section": "Key Performance Metrics",
+    "text": "Key Performance Metrics\nWhat are the KPIs for the project? What are the current values of these KPIs? What is the definition of success in terms of these KPIs?"
+  },
+  {
+    "objectID": "project_planning.html#business-requirements",
+    "href": "project_planning.html#business-requirements",
+    "title": "Name of Project Project Plan",
+    "section": "Business Requirements",
+    "text": "Business Requirements\nWhat are the business requirements for the project? For a predictive model this will include the trigger event for model scoring, case-specific handling, exceptions, the type of predictors, etc. Understand the core tension of speed to market vs craftsmanship"
+  },
+  {
+    "objectID": "project_planning.html#implementation-plan",
+    "href": "project_planning.html#implementation-plan",
+    "title": "Name of Project Project Plan",
+    "section": "Implementation Plan",
+    "text": "Implementation Plan\n\nDeployment Pattern\nHow will the DS product be deployed? Monitoring tool / dashboard, on-demand web/micro-service? Will there be a UI component? This is a good place to provide a mocked version of the product / wireframe.\n\n\nDeployment Requirements\nWhat are the deployment requirements? Application availability, data availability, infrastructure, application hosting, etc."
+  },
+  {
+    "objectID": "project_planning.html#project-sizing-and-feasibility-assessment",
+    "href": "project_planning.html#project-sizing-and-feasibility-assessment",
+    "title": "Name of Project Project Plan",
+    "section": "Project Sizing and Feasibility Assessment",
+    "text": "Project Sizing and Feasibility Assessment\nHow large a project is this? What resources need to be brought to bear to make the project successful? Given the information above, is the project feasible? What is the likelihood of success?"
+  },
+  {
+    "objectID": "project_planning.html#roadmap",
+    "href": "project_planning.html#roadmap",
+    "title": "Name of Project Project Plan",
+    "section": "Roadmap",
+    "text": "Roadmap\nProvide a preliminary roadmap timeline. What by when?\n\n\n\n\n\ngantt\n    title Example Project Roadmap\n    dateFormat YYYY-MM-DD\n    section Project Planning\n        Scope Project and Gather Requirements  :a1, 2030-01-01, 30d\n        Model Advisory Board Signoff    : milestone, after a1, 1d\n    section Model Development\n        Data Acquisition :2030-02-01, 12d\n        Model Build    :24d\n        Model Validation :21d\n        Final Stakeholder Signoff : milestone, 1d\n    section Pilot\n        In Pilot : 21d\n        Model Adjustments : 7d\n    section Deployment\n        Code Hardening and Unit Testing : 21d\n        Application Integration and Testing : 21d\n    section Monitoring\n        Ongoing Monitoring Report : milestone, 1d"
+  },
+  {
+    "objectID": "project_planning.html#stakeholder-sign-off",
+    "href": "project_planning.html#stakeholder-sign-off",
+    "title": "Name of Project Project Plan",
+    "section": "Stakeholder Sign-off",
+    "text": "Stakeholder Sign-off\nDo you have signoff from stakeholders? Both data science and business leadership signoff?"
   }
 ]

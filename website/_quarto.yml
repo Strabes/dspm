@@ -3,11 +3,15 @@ project:
   output-dir: ../docs
 
 website:
-  title: "Website"
+  title: "Data Science Project Management"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: project_planning.qmd
+        text: Project Planning
+      - href: status_updates.qmd
+        text: Status Updates
       - about.qmd
 
 format:

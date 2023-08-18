@@ -59,6 +59,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script src="site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="styles.css">
@@ -109,15 +112,75 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#status-update" id="toc-status-update" class="nav-link active" data-scroll-target="#status-update">Status Update</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 
 
+<section id="status-update" class="level2">
+<h2 class="anchored" data-anchor-id="status-update">Status Update</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<section id="project-vision" class="level3">
+<h3 class="anchored" data-anchor-id="project-vision">Project Vision</h3>
+<p><em>Two sentence statement of project vision. What is the business problem and what is the solution being proposed</em></p>
+</section>
+<section id="accomplishments" class="level3">
+<h3 class="anchored" data-anchor-id="accomplishments">Accomplishments</h3>
+<p><em>Two to three high-level accomplishments from latest sprint</em></p>
+</section>
+<section id="next-steps" class="level3">
+<h3 class="anchored" data-anchor-id="next-steps">Next Steps</h3>
+<p><em>Two to three next steps</em></p>
+</section>
+</div><div class="column" style="width:50%;">
+<section id="risksbarriers" class="level3">
+<h3 class="anchored" data-anchor-id="risksbarriers">Risks/Barriers</h3>
+<p><em>What roadblocks or derailers does the project face?</em></p>
+</section>
+<section id="decisions-required" class="level3">
+<h3 class="anchored" data-anchor-id="decisions-required">Decisions Required</h3>
+<p><em>What decisions do we need from leadership or project stakeholders? Often this will involve prioritization.</em></p>
+</section>
+<section id="milestones" class="level3">
+<h3 class="anchored" data-anchor-id="milestones">Milestones</h3>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<div>
+<pre class="mermaid mermaid-js">gantt
+    title Milestones
+    dateFormat YYYY-MM-DD
+    todayMarker stroke-width:5px,stroke:#d0473d,opacity:0.5
+    section Section
+        Project Planning     :a1, 2023-08-01, 30d
+        Model Development    :a2, after a1, 20d
+        Model Validation     :a3, after a2, 20d
+        Implementation       :a4, after a3, 20d
+        Monitoring and Maintenance :a5, after a4, 90d
+</pre>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="what-by-when" class="level3">
+<h3 class="anchored" data-anchor-id="what-by-when">What by When</h3>
+<p><em>What will we deliver and when will it be delivered?</em></p>
+</section>
+</div>
+</div>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

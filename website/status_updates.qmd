@@ -1,0 +1,44 @@
+## Status Update
+
+::: {.columns}
+
+::: {.column width="50%"}
+### Project Vision
+*Two sentence statement of project vision. What is the business problem and what is the solution being proposed*
+
+### Accomplishments
+*Two to three high-level accomplishments from latest sprint*
+
+### Next Steps
+*Two to three next steps*
+:::
+
+::: {.column width="50%"}
+
+### Risks/Barriers
+*What roadblocks or derailers does the project face?*
+
+### Decisions Required
+*What decisions do we need from leadership or project stakeholders? Often this will involve prioritization.*
+
+
+### Milestones
+
+```{mermaid}
+gantt
+    title Milestones
+    dateFormat YYYY-MM-DD
+    todayMarker stroke-width:5px,stroke:#d0473d,opacity:0.5
+    section Section
+        Project Planning     :a1, 2023-08-01, 30d
+        Model Development    :a2, after a1, 20d
+        Model Validation     :a3, after a2, 20d
+        Implementation       :a4, after a3, 20d
+        Monitoring and Maintenance :a5, after a4, 90d
+```
+
+### What by When
+*What will we deliver and when will it be delivered?*
+:::
+
+:::

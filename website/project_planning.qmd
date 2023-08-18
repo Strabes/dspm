@@ -21,9 +21,13 @@ Data Engineer:
 
 *What are the KPIs for the project? What are the current values of these KPIs? What is the definition of success in terms of these KPIs?*
 
+## Use Cases
+
+*Identify one or more use cases that align with the business problem. How will the data science product be utilized by the business?*
+
 ## Business Requirements
 
-*What are the business requirements for the project? For a predictive model this will include the trigger event for model scoring, case-specific handling, exceptions, the type of predictors, etc. Understand the core tension of speed to market vs craftsmanship*
+*What are the business requirements for the project? For a predictive model this will include the trigger event for model scoring, case-specific handling, exceptions, the type of predictors, etc. Understand the core tension of speed to market vs craftsmanship.*
 
 ## Implementation Plan
 

@@ -4,21 +4,21 @@
     "href": "status_updates.html",
     "title": "Data Science Project Management",
     "section": "",
-    "text": "Two sentence statement of project vision. What is the business problem and what is the solution being proposed\n\n\n\nTwo to three high-level accomplishments from latest sprint\n\n\n\nTwo to three next steps\n\n\n\n\nWhat roadblocks or derailers does the project face?\n\n\n\nWhat decisions do we need from leadership or project stakeholders? Often this will involve prioritization.\n\n\n\n\n\n\n\ngantt\n    title Milestones\n    dateFormat YYYY-MM-DD\n    todayMarker stroke-width:5px,stroke:#d0473d,opacity:0.5\n    section Section\n        Project Planning     :a1, 2023-08-01, 30d\n        Model Development    :a2, after a1, 20d\n        Model Validation     :a3, after a2, 20d\n        Implementation       :a4, after a3, 20d\n        Monitoring and Maintenance :a5, after a4, 90d\n\n\n\n\n\n\n\n\nWhat will we deliver and when will it be delivered?"
+    "text": "Two sentence statement of project vision. What is the business problem and what is the solution being proposed.\n\n\n\nTwo to three high-level accomplishments from latest sprint.\n\n\n\nTwo to three next steps.\n\n\n\n\nWhat roadblocks or derailers does the project face?\n\n\n\nWhat decisions do we need from leadership or project stakeholders? Often this will involve prioritization.\n\n\n\n\n\n\n\ngantt\n    title Milestones\n    dateFormat YYYY-MM-DD\n    todayMarker stroke-width:5px,stroke:#d0473d,opacity:0.5\n    section Section\n        Project Planning     :a1, 2023-08-01, 30d\n        Model Development    :a2, after a1, 20d\n        Model Validation     :a3, after a2, 20d\n        Implementation       :a4, after a3, 20d\n        Monitoring and Maintenance :a5, after a4, 90d\n\n\n\n\n\n\n\n\nWhat will we deliver and when will it be delivered?"
   },
   {
     "objectID": "status_updates.html#status-update",
     "href": "status_updates.html#status-update",
     "title": "Data Science Project Management",
     "section": "",
-    "text": "Two sentence statement of project vision. What is the business problem and what is the solution being proposed\n\n\n\nTwo to three high-level accomplishments from latest sprint\n\n\n\nTwo to three next steps\n\n\n\n\nWhat roadblocks or derailers does the project face?\n\n\n\nWhat decisions do we need from leadership or project stakeholders? Often this will involve prioritization.\n\n\n\n\n\n\n\ngantt\n    title Milestones\n    dateFormat YYYY-MM-DD\n    todayMarker stroke-width:5px,stroke:#d0473d,opacity:0.5\n    section Section\n        Project Planning     :a1, 2023-08-01, 30d\n        Model Development    :a2, after a1, 20d\n        Model Validation     :a3, after a2, 20d\n        Implementation       :a4, after a3, 20d\n        Monitoring and Maintenance :a5, after a4, 90d\n\n\n\n\n\n\n\n\nWhat will we deliver and when will it be delivered?"
+    "text": "Two sentence statement of project vision. What is the business problem and what is the solution being proposed.\n\n\n\nTwo to three high-level accomplishments from latest sprint.\n\n\n\nTwo to three next steps.\n\n\n\n\nWhat roadblocks or derailers does the project face?\n\n\n\nWhat decisions do we need from leadership or project stakeholders? Often this will involve prioritization.\n\n\n\n\n\n\n\ngantt\n    title Milestones\n    dateFormat YYYY-MM-DD\n    todayMarker stroke-width:5px,stroke:#d0473d,opacity:0.5\n    section Section\n        Project Planning     :a1, 2023-08-01, 30d\n        Model Development    :a2, after a1, 20d\n        Model Validation     :a3, after a2, 20d\n        Implementation       :a4, after a3, 20d\n        Monitoring and Maintenance :a5, after a4, 90d\n\n\n\n\n\n\n\n\nWhat will we deliver and when will it be delivered?"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Data Science Project Management",
     "section": "",
-    "text": "Resources:\nProject Planning"
+    "text": "Resources:\nProject Planning\nStatus Updates"
   },
   {
     "objectID": "about.html",

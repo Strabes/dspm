@@ -5,3 +5,5 @@ title: "Data Science Project Management"
 Resources:
 
 [Project Planning](project_planning.qmd)
+
+[Status Updates](status_updates.qmd)

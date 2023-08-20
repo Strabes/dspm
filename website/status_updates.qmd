@@ -1,16 +1,21 @@
+---
+execute: 
+  freeze: auto
+---
+
 ## Status Update
 
 ::: {.columns}
 
 ::: {.column width="50%"}
 ### Project Vision
-*Two sentence statement of project vision. What is the business problem and what is the solution being proposed*
+*Two sentence statement of project vision. What is the business problem and what is the solution being proposed.*
 
 ### Accomplishments
-*Two to three high-level accomplishments from latest sprint*
+*Two to three high-level accomplishments from latest sprint.*
 
 ### Next Steps
-*Two to three next steps*
+*Two to three next steps.*
 :::
 
 ::: {.column width="50%"}
